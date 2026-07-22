@@ -442,12 +442,14 @@ header {
         background-color: var(--Color-Off-White);
         flex-direction: column;
         position: absolute;  
+        top: 0;
        right: 0; 
          opacity: 0;
         width: var(--Spacing-200); 
-        height: 100%;
-        padding-top: var(--Spacing-108);
-        padding-left: var(--Spacing-26);
+        height: 100vh;
+        overflow-y: auto;
+        padding-top: var(--Padding-Spacing-128);
+        padding-left: var(--Spacing-26);    
     }
    
 
