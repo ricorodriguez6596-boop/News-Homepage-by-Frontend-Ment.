@@ -28,7 +28,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./Desktop-screenshot.png)
-![](./Mobile-screenshot.png)
 
 
 
