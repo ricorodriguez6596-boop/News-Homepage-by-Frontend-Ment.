@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Desktop-screenshot.png)
+![](./Desktop-Screenshot.png)
 
 
 
