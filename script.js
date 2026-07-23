@@ -22,7 +22,7 @@ const expand = () => {
         hamCloseImg.style.display = 'none'
     }
 
-    let clos = () => {
+    const clos = () => {
         if (menuOpen === false) {
             navList.style.opacity = 0
             hamOpenImg.style.display = 'block'
