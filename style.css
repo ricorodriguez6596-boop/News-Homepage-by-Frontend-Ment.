@@ -272,14 +272,16 @@ header {
     transition: all 0.2s ease-in-out;
 }
 
-.new-news-topic a:hover {
-    color: var(--Color-Soft-Orange);
-}
-
 .new-news-topic p {
     color: var(--Color-Grayish-Blue);
     line-height: 180%;
 }
+
+.new-news-topic a:hover {
+    color: var(--Color-Soft-Orange);
+}
+
+
 /* ====== */
 
 
@@ -378,9 +380,6 @@ header {
 
     .news-grid-section {
         padding-inline: var(--Spacing-64);
-    }
-
-    .news-grid-section {
         grid-template-columns: repeat(1, minmax(200px, 1fr));
         grid-template-areas:
             'main '
@@ -461,7 +460,6 @@ header {
     }
 
     .news-logo {
-        width: var(--Spacing-48);
         width: var(--Spacing-52);
     }
 

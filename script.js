@@ -1,8 +1,8 @@
-let hamMenu = document.querySelector('.ham-menu-button')
-let navList = document.querySelector('.nav-list')
-let section = document.querySelector('.news-grid-section')
-let hamOpenImg = document.querySelector('.ham-open-img')
-let hamCloseImg = document.querySelector('.ham-close-img')
+const hamMenu = document.querySelector('.ham-menu-button')
+const navList = document.querySelector('.nav-list')
+const section = document.querySelector('.news-grid-section')
+const hamOpenImg = document.querySelector('.ham-open-img')
+const hamCloseImg = document.querySelector('.ham-close-img')
 
 let menuOpen = true
 
