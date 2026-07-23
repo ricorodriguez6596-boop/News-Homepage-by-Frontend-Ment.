@@ -332,13 +332,13 @@ header {
     width: fit-content;
 }
 
-.news-card-txt a:hover {
-    color: var(--Color-Soft-Red);
-}
 
 .news-card-txt p {
     color: var(--Color-Dark-Grayish-Blue);
     line-height: 180%;
+}
+.news-card-txt a:hover {
+    color: var(--Color-Soft-Red);
 }
 /* News-grid-Section-Complete */
 
