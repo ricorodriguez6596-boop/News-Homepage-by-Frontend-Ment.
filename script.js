@@ -7,7 +7,7 @@ const hamCloseImg = document.querySelector('.ham-close-img')
 let menuOpen = true
 
 
-let expand = () => {
+const expand = () => {
     if (menuOpen) {
         navList.style.right = 0
         navList.style.opacity = 1
